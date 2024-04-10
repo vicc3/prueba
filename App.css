@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@100..700&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'M PLUS 1 Code', monospace;
+}
+
+
+:root {
+  --primaryColor: rgb(12, 12, 12);
+  --brownColor: rgb(72, 30, 20);
+  --maroonColor: rgb(155, 57, 34);
+  --orangeColor: rgb(242, 97, 63);
+  --whiteColor: rgb(251, 243, 213);
+  --greyText: rgb(180, 180, 184);
+  --bgColor: rgb(199, 200, 204);
+  --inputColor: rgb(227, 225, 217);
+  --inputColor: rgb(242, 239, 229);
+
+  /*fonts y tipografia*/
+  --biggestFont: 2.5rem;
+  --h1Font: 1.5rem;
+  --h2Font: 1.25rem;
+  --h3Font: 1rem;
+  --normalFont: .938rem;
+  --smallFont: .813rem;
+  --smallestFont: .75rem;
+
+}
+
+.App-logo {
+  height: 35vmin;
+  pointer-events: none;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+
+}
+
+.grid {
+  display: grid;
+  align-items: grid;
+  gap: 1.5rem;
+
+}
+
+html{
+  font-size: 90%;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.icon {
+  font-size: var(--h2Font);
+  cursor: pointer;
+}
+
+img, video {
+  height: auto;
+  width: 100%;
+}
+
+.message {
+  display: none; 
+}
+
+.showMessage {
+  display: block;
+  color: var(--whiteColor);
+  background: var(--orangeColor);
+  border-radius: 3px;
+  text-align: center;
+}
+
+.btn {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 8px;
+  padding: .8rem 1rem;
+  color: var(--greyText);
+}
+
+.btn .icon {
+  margin-left: .5rem;
+}
+
+.btn:hover {
+  color: var(--primaryColor);
+  background: var(--maroonColor);
+}

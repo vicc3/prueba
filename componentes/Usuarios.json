@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "Nombre": "Juan",
+      "ApellidoPaterno": "González",
+      "ApellidoMaterno": "Pérez",
+      "Correo": "juan.gonzalez@example.com",
+      "Telefono": "123456789",
+      "NombredeUsuario": "juang"
+    },
+    {
+      "id": 2,
+      "Nombre": "María",
+      "ApellidoPaterno": "López",
+      "ApellidoMaterno": "García",
+      "Correo": "maria.lopez@example.com",
+      "Telefono": "987654321",
+      "NombredeUsuario": "marial"
+    },
+    {
+      "id": 3,
+      "Nombre": "Carlos",
+      "ApellidoPaterno": "Martínez",
+      "ApellidoMaterno": "Rodríguez",
+      "Correo": "carlos.martinez@example.com",
+      "Telefono": "456789123",
+      "NombredeUsuario": "carlosm"
+    },
+    {
+      "id": 4,
+      "Nombre": "Ana",
+      "ApellidoPaterno": "Fernández",
+      "ApellidoMaterno": "López",
+      "Correo": "ana.fernandez@example.com",
+      "Telefono": "741852963",
+      "NombredeUsuario": "anaf"
+    },
+    {
+      "id": 5,
+      "Nombre": "Pedro",
+      "ApellidoPaterno": "Sánchez",
+      "ApellidoMaterno": "Martínez",
+      "Correo": "pedro.sanchez@example.com",
+      "Telefono": "369258147",
+      "NombredeUsuario": "pedros"
+    },
+    {
+      "id": 6,
+      "Nombre": "Laura",
+      "ApellidoPaterno": "Díaz",
+      "ApellidoMaterno": "Fernández",
+      "Correo": "laura.diaz@example.com",
+      "Telefono": "852147963",
+      "NombredeUsuario": "laurad"
+    },
+    {
+      "id": 7,
+      "Nombre": "Javier",
+      "ApellidoPaterno": "Pérez",
+      "ApellidoMaterno": "Sánchez",
+      "Correo": "javier.perez@example.com",
+      "Telefono": "951753852",
+      "NombredeUsuario": "javierp"
+    },
+    {
+      "id": 8,
+      "Nombre": "Sara",
+      "ApellidoPaterno": "García",
+      "ApellidoMaterno": "Martínez",
+      "Correo": "sara.garcia@example.com",
+      "Telefono": "753951852",
+      "NombredeUsuario": "sarag"
+    },
+    {
+      "id": 9,
+      "Nombre": "Miguel",
+      "ApellidoPaterno": "Hernández",
+      "ApellidoMaterno": "Sánchez",
+      "Correo": "miguel.hernandez@example.com",
+      "Telefono": "159753852",
+      "NombredeUsuario": "miguelh"
+    },
+    {
+      "id": 10,
+      "Nombre": "Lucía",
+      "ApellidoPaterno": "Martín",
+      "ApellidoMaterno": "Pérez",
+      "Correo": "lucia.martin@example.com",
+      "Telefono": "852963741",
+      "NombredeUsuario": "luciam"
+    },
+    {
+      "id": 11,
+      "Nombre": "Daniel",
+      "ApellidoPaterno": "Jiménez",
+      "ApellidoMaterno": "Gómez",
+      "Correo": "daniel.jimenez@example.com",
+      "Telefono": "369147258",
+      "NombredeUsuario": "danield"
+    }
+  ]
